@@ -1,12 +1,12 @@
 # IOS
 
 <div>
-<video src='video/1.mp4' width=180/>
+<video src='https://github.com/bensonarafat/tezda_test/blob/main/video/1.mp4?raw=true' width=180/>
 </div>
 
-# IOS
+# Android
 <div>
-<video src='video/2.mp4' width=180/>
+<video src='https://github.com/bensonarafat/tezda_test/blob/main/video/2.mp4?raw=true' width=180/>
 </div>
 
 # Codebase structure and function
