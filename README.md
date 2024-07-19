@@ -2,14 +2,14 @@
 
 <div>
 
-https://github.com/bensonarafat/tezda_test/blob/main/video/1.mp4 
+https://drive.google.com/file/d/1i8JufYniEgm3oZBs2IRXHuqgOe1bKavB/view?usp=drive_link 
 
 </div>
 
 # Android
 <div>
 
-https://github.com/bensonarafat/tezda_test/blob/main/video/2.mp4 
+[https://github.com/bensonarafat/tezda_test/blob/main/video/2.mp4 ](https://drive.google.com/file/d/1PuMMJeh1nMsQhSJlRqGhCajg3e4T3LV3/view?usp=sharing)
 
 </div>
 
